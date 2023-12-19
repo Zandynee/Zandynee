@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Zandynee/Zandynee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welp, here goes nothing
+The name's Mulat Adi, also (mostly) called Zandyne online. 
+I'm a Software Engineering student at Universitas Gadjah Mada
+### Hobbies
+- Drawing
+- Playing Games
+- Video Editing
+- Programming
+### Currently learning to
+- Make Games
+- Write Code Better
+- Design Programs
+- Draw Better
+### Tools/Languages (Beginner Level)
+- C++
+- C#
+- Python
+- Figma
+- Krita
+- After Effect
+# Thanks For Reading
