@@ -14,8 +14,13 @@ I'm a Software Engineering student at Universitas Gadjah Mada
 ### Tools/Languages (Beginner Level)
 - C++
 - C#
+- HTML
+- Javascript
+- Rust
 - Python
+- Godot (gdscript)
 - Figma
 - Krita
 - After Effect
+- Sony Vegas
 # Thanks For Reading
