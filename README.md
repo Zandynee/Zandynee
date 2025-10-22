@@ -1,26 +1,23 @@
 # Welp, here goes nothing
-The name's Mulat Adi, also (mostly) called Zandyne online. 
+My name is Mulat Adi Wardhana (also known as Zandyne)
 I'm a Software Engineering student at Universitas Gadjah Mada
-### Hobbies
-- Drawing
-- Playing Games
-- Video Editing
-- Programming
-### Currently learning to
-- Make Games
-- Write Code Better
-- Design Programs
-- Draw Better
-### Tools/Languages (Beginner Level)
+### Focus
+- Front-End Web Development
+- Software Reverse Engineering
+- Game Development
+- Data Engineering
+- Robotics Engineering (Biomechanic)
+### Languages/Tools
 - C++
 - C#
-- HTML
+- Python
+- Arduino
+- Godot (gdscript)
+- Unity
+- Web Animation (Framer, GSAP)
 - Javascript
 - Rust
-- Python
-- Godot (gdscript)
-- Figma
-- Krita
-- After Effect
-- Sony Vegas
+- Assembly (x86-64)
 # Thanks For Reading
+https://github.com/user-attachments/assets/ef1b01a9-e526-431a-9a08-538aa27c454a
+
