@@ -19,5 +19,6 @@ I'm a Software Engineering student at Universitas Gadjah Mada
 - Rust
 - Assembly (x86-64)
 # Thanks For Reading
+(PFP by [@Kamonabe_Pasta](https://x.com/Kamonabe_Pasta))
 https://github.com/user-attachments/assets/ef1b01a9-e526-431a-9a08-538aa27c454a
 
